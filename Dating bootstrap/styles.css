@@ -1,0 +1,16 @@
+.col1{
+	background-color: pink;
+	color: white;
+}
+.col2{
+	background-color: blue;
+	color:white ;
+}
+.Nested-col1{
+	background-color: grey;
+	color: white;
+}
+.Nested-col2{
+	background-color: violet;
+	color: white;
+}
